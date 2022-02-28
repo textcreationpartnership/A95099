@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the great solemnity of the circumcision of Mustapha Prince of Turkie eldest son of Sultan Mahomet present emperour of the Turks. Together with and account of the marriage of his daughter to his great favourite Mussaip at Adrianople, as it was sent in a letter to person of honour by Mr. Coke secretary of the Turkie Company; being in company with his excellency the Lord Embassador Sir John Finch.</title>
+            <author>Coke, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95099</idno>
+            <idno type="STC">Wing T2793</idno>
+            <idno type="STC">ESTC R226307</idno>
+            <idno type="EEBO-CITATION">99899758</idno>
+            <idno type="PROQUEST">99899758</idno>
+            <idno type="VID">136173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2449:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the great solemnity of the circumcision of Mustapha Prince of Turkie eldest son of Sultan Mahomet present emperour of the Turks. Together with and account of the marriage of his daughter to his great favourite Mussaip at Adrianople, as it was sent in a letter to person of honour by Mr. Coke secretary of the Turkie Company; being in company with his excellency the Lord Embassador Sir John Finch.</title>
+                  <author>Coke, Mr.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J[ames]. C[ottrell]. for William Crook, at the Green Dragon without Temple-bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a license to print dated January 10. 1675/6.</note>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Identified as Wing T2793, reel 2449, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) C4905.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Circumcision --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136173:1" rendition="simple:additions"/>
+            <p> A True NARRATIVE OF THE Great Solemnity OF THE CIRCUMCISION OF MUSTAPHA Prince of <hi>Turkie,</hi> Eldeſt Son of SULTAN MAHOMET Preſent EMPEROUR of the <hi>Turks.</hi>
+            </p>
+            <p>Together with an Account of the Marriage of his Daughter to his great Favourite MUSSAIP AT Adrianople, As it was ſent in a Letter to Perſon of Honour By Mr. <hi>Coke</hi> Secretary of the <hi>Turkie</hi> Company; Being in Company with his Excellency the Lord Embaſſador Sir <hi>JOHN FINCH.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>William Crook,</hi> at the Green Dragon without <hi>Temple-bar.</hi> 1676.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:136173:2"/>
+            <p> Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 10. 1675/6.</date>
+               </dateline>
+               <signed>ROGER L'ESTRANGE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:136173:2"/>
+            <head>A True NARRATIVE OF THE Great Solemnity OF THE CIRCUMCISION OF MUSTAPHA Prince of <hi>Turkie,</hi> Eldeſt Son of SULTAN MAHOMET Preſent EMPEROUR of the <hi>Turks.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe laſt five months I have ſpent in <hi>Adria<g ref="char:EOLhyphen"/>nople:</hi> it's pleaſantly ſcituated on the riſing and top of an eaſie Hill, which to the <hi>South</hi> and <hi>Weſt</hi> gives the proſpect of a large Plain, where the eye is not loſt, but bounded with the Mountains of <hi>Haemus;</hi> on the <hi>North</hi> and <hi>Eaſt</hi> are ſmall Hills. It's watered with three Rivers (the chiefeſt <hi>He<g ref="char:EOLhyphen"/>brus)</hi> which often uniting and ſeparating their ſtreams,
+<pb n="2" facs="tcp:136173:3"/> make many Iſlands, capable of what the moſt refined Luxury could plant or build; but Spring-Gardens and Walks, adorn'd with Ladies and Gallants, are things un<g ref="char:EOLhyphen"/>known to us <hi>Barbarians.</hi>
+            </p>
+            <p>I have now told you all that's good: For this airy pleaſure of the eye is loſt in ſo many ſolid inconvenien<g ref="char:EOLhyphen"/>cies, that I never yet was in any City more uneaſie, nay more inſuportable: the Buildings (except a Moſque or two) ſo mean and contemptible, that they would diſ<g ref="char:EOLhyphen"/>grace a poor Village; the Water bad, Wine worſe, the Streets and all Avenues to the City ſo crouded with Carts, Dunghills, and Carrion, that nothing can be more troubleſome or offenſive to the ſight and ſcent. In a word, what the Riches and Invention of Mankinde did contri<g ref="char:EOLhyphen"/>bute to make <hi>Rome</hi> delightful and glorious, the ſtupidity and fordidneſs of theſe people have outvied in the reverſe, making this place the Metropolis of filth and inconveni<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Our arrival here was the 10 of <hi>May;</hi> the 15th began the Feſtivals for the Circumciſion of the young Prince. In a large Piazza, or rather Field before the Seraglio, were pitch'd the Tents of the Grand Signior, Viſier, and other great men; which made a ſide and half of the Square: Another ſide and half was taken up with Lamps hung upon Ropes, and faſtened to Poles, diſpoſed into ſeveral figures of Ships, Buildings, and Woods, <hi>&amp;c.</hi> which were changed every night; others as they uſe in <hi>Egypt</hi> at their rejoycing when they cut the <hi>Nile.</hi> The fourth ſide was the Seraglio, where the women had the convenience of ſeeing through Lettices.</p>
+            <p>The Show begun in the afternoon (the morning being ſpent in Entertainments.) The Grand Signior ſitting in an elevated place by his Tent, much like a Summer-houſe in our Gardens, which over looked all, received the Pre<g ref="char:EOLhyphen"/>ſents brought him by the <hi>Baſha's,</hi> and all the Officers of the Empire, and all the Arts of <hi>Conſtantinople.</hi> Theſe
+<pb n="3" facs="tcp:136173:3"/> were not left to the liberty and generoſity of the Pre<g ref="char:EOLhyphen"/>ſenter, but they were taxt what they ſhould give, and an Officer appointed to ſurvey the quality of them; which if not approved, was returned, and perhaps augmented: for in this Country it's no ill manners to <hi>look a gift-Horſe in the Mouth.</hi>
+            </p>
+            <p>The Mechanicks and ſome of the Souldiery were e<g ref="char:EOLhyphen"/>very day entertain'd in a great Tent with a Turkiſh Feaſt; after were antick Dances in ſeveral Habits, Singing and Dancing with moſt obſcene Geſticulations, Jack-pudding, and Punchinello's repreſentations, Wreſtling, Rope-dan<g ref="char:EOLhyphen"/>cing, fears of Activity and Strength; all theſe promiſcu<g ref="char:EOLhyphen"/>ouſly in the <hi>Area</hi> of the Square. Had there been but a Noiſe, Rabble, and abominable Pigs head, nothing could have been an exacter Scene of <hi>Bartholomew-fair.</hi>
+            </p>
+            <p>At night a row of Poles, about a mans height, were ſtuck in the ground; on the top were Hoops of Iron, in which burnt Pine-wood with a brisk and lively flame, which with the Lamps, gave a delightful and magnificent proſpect.</p>
+            <p>About an hour in the night began the Fire-works, which were plentiful, and not amiſs; though I think thoſe I have ſeen at <hi>Rome</hi> ſurpaſs them: one ſort indeed I never ſaw, which was a great Baſon like a Mortar-piece fixt into the Ground and filled with Wild-fire, which ſent out a violent ſtream of fire, with a hideous noiſe, a great height. It was an Object equally terrible and delightful. Theſe were the conſtant Divertiſements all the time of the So<g ref="char:EOLhyphen"/>lemnity.</p>
+            <p>The 25th, the Mufty, Viſier, and all the <hi>Baſha's</hi> and great Officers, with the <hi>Janizaries</hi> walking before, and the <hi>Chiaux</hi> a horſe-back attended the Prince, who was ſo adorned or over-laden with Jewels, both himſelf and his Horſe, that one might ſay, he carri'd the Value of an Empire about him.</p>
+            <pb n="4" facs="tcp:136173:4"/>
+            <p> The 27th, which was <hi>Mahomet</hi>'s Birth day, he accom<g ref="char:EOLhyphen"/>pani'd his Father to the Moſchea: here was no ſolemn Cavalcade, onely the Grand Signior's own Retinue; and though it was leſs in number far than the Cavalcade, yet adjuſted neater and Court-like; the Grand Signior's Footmen and Pages being very rich in Clothes and Jew<g ref="char:EOLhyphen"/>els.</p>
+            <p>This evening the Prince was Circumcis'd in the arms of his Father; he is about eleven years old, of a good Aſpect, his name <hi>Muſtapha.</hi> About two thouſand o<g ref="char:EOLhyphen"/>thers were cut at this Solemnity, who had Money and a Quilt from the Grand Signior. It was done publickly in the Tents, and any one <hi>Turk</hi> or <hi>Chriſtian</hi> admitted to ſee them.</p>
+            <p>
+               <hi>June</hi> the 5th this Solemnity was concluded with Horſe-races. After ten days repoſe, began the Feaſts for the Marriage of the Grand Signior's Daughter, of about ſe<g ref="char:EOLhyphen"/>ven years old, unto the <hi>Muſſaip</hi> or Favourite, who by the Tefterdar, or Lord Treaſurer (who was the Compare) in a ſolemn ſhow ſent his Preſents to her, thirty Mules laden with Sugar-plums and Sweet-meats, figures of ſeve<g ref="char:EOLhyphen"/>ral ſorts of Birds and Beaſts of Sugar, ſo ill-favouredly repreſented, that they could not be ſaid to break the Law againſt making Images, though the Solemnity of the time had not diſpenced with it. Fifty ſix men, each with five more Veſts of Cloth of Gold, Satten, <hi>&amp;c.</hi> then her Jewels, ſeveral Suits very rich; five led Horſes with rich Furni<g ref="char:EOLhyphen"/>ture of Pearls and precious Stone, and at laſt Coaches with Slaves.</p>
+            <p>On the 19th of <hi>June</hi> was the Viſier, <hi>&amp;c.</hi> in a ſolemn Calvalcade to accompany the Preſents the Grand Signior gave her: Eighty ſix Mules laden with rich Houſhold-ſtuff, very rich Habits for her, and Jewels of all ſorts, twelve Coaches with Slaves, and ſix and thirty black Eu<g ref="char:EOLhyphen"/>nuchs.</p>
+            <pb n="5" facs="tcp:136173:4"/>
+            <p> And the 23 was the laſt Cavalcade of all the great men to attend her from the Seraglio to her Husbands houſe: They were in a cloſe Coach plated with Silver, attended with five and twenty others. At laſt came the <hi>Haſſaki,</hi> or Queen-regents Coach, attended with ten more; to e<g ref="char:EOLhyphen"/>very one of theſe Coaches were two black Eunuchs. In a great Court-yard of the <hi>Muſſaip</hi>'s Palace were repeated all the Sports and Fire-works that were before, at which the Grand Signior was a conſtant Spectator. Beſides, there was a Rope faſtned to a high Steeple, whence ſeveral men came flying down: one having a Boy tied to his back with a Drum, the Rope broke; but being neer the ground, and falling on another man, they had none of them any con<g ref="char:EOLhyphen"/>ſiderable hurt. The moſt remarkable, was a man that walked up a Rope faſtned to the ſame Steeple, forward and backward; and another man that upon a high looſe Rope hanging by his hand, his body extended, ſwung himſelf over twelve times, without ſtop, or touching any thing.</p>
+            <p>But too much of theſe trifles, though the Grand Sig<g ref="char:EOLhyphen"/>niour was much delighted with them, and made them be continued many more days than were intended. He took that fancy to a Gypſie-boy that ſwang and danced, as he hath him in the degree of a Favourite, being taken into the Seraglio, and preſented by the Great <hi>Baſha's.</hi>
+            </p>
+            <p>The <hi>Muſſaip</hi> that hath married the Grand Segnior's Daughter, is a man meddles in no buſineſs, nor is thought to be much capable of it; for being Chimacham in the Viſiers abſence, he ſhewed no great abilities. The Grand Signior takes him for a conſtant Companion in all his Divertiſements, and hath a ſtrong affection to him; which time does not impair, but rather augment; he being a Prince moſt conſtant where he fixes. You would think this Marriage would make him happy, but it's quite con<g ref="char:EOLhyphen"/>trary; for it not onely cuts him off in his pleaſures to which he is indulgent, he being forced to diſcharge all his women, even his own Siſters; but it ruines his fortune,
+<pb n="6" facs="tcp:136173:5" rendition="simple:additions"/> both by the expence in maintaining her while ſhe lives, and ſhould ſhe die, he muſt refund to the Treaſury all he hath had with her, beſides four millions (according to common report) of Dollars, which is her Dote; which he is ſo far from an ability of, that he cannot pay his preſent Debts. She hath good proofs of his abilities another way, he having, it's ſaid, two and thirty Children.</p>
+            <p>To our own private Affairs, his Excellency my Lord Ambaſſador Sir <hi>John Finch</hi> had all ſatisfaction, and hath obtained very advantageous additions to our Capitulati<g ref="char:EOLhyphen"/>ons: but they being things Mercantile, and though not beyond, yet beneath your knowledge, I ſhall not particu<g ref="char:EOLhyphen"/>larize.</p>
+            <p>We had a very hot Plague: My Lord Ambaſſador re<g ref="char:EOLhyphen"/>tired to a Village, but it ſoon arrived there; ſo he lived in his Tents till the Sickneſs got among the Servants, of whom five died: then he returned to the Village; Mr. <hi>North</hi> and I ſtuck to the City, where, though in our ſtreet onely two houſes were free, beſides our own, and the two adjoyning had five ſick on the one, and two on the other ſide; yet God be praiſed we and our Servants paſ<g ref="char:EOLhyphen"/>ſed well along the Road: and here it's not much leſs. Sir <hi>Thomas Baines</hi> my Lord Ambaſſador's Companion that attended him in his Chamber, three days after our ar<g ref="char:EOLhyphen"/>rival, was taken, and in three more died; he is the onely Engliſh man hath been viſited. His Excellency hath re<g ref="char:EOLhyphen"/>tired upon this, a little way out of Town, for ſome time.</p>
+            <closer>
+               <dateline>Dated from <hi>Pera,</hi> 
+                  <date>the <hi>9th</hi> of <hi>October 1675.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
